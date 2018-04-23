@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToImplementSingleton.Module", "HowToImplementSingleton.Module\HowToImplementSingleton.Module.vbproj", "{147D0549-4C90-47BA-8BE1-E02442913AA8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToImplementSingleton.Module.Web", "HowToImplementSingleton.Module.Web\HowToImplementSingleton.Module.Web.vbproj", "{CEA3AB81-1905-4432-B01F-0D49F349B474}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToImplementSingleton.Web", "HowToImplementSingleton.Web\HowToImplementSingleton.Web.vbproj", "{AF22EAD8-6593-4380-8884-5747E228D6B0}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToImplementSingleton.Module.Win", "HowToImplementSingleton.Module.Win\HowToImplementSingleton.Module.Win.vbproj", "{0351D1AA-F6C1-4F00-A76B-89B89348C6F8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToImplementSingleton.Win", "HowToImplementSingleton.Win\HowToImplementSingleton.Win.vbproj", "{4E1838DF-4305-462C-A3DB-F1DB69B50163}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147D0549-4C90-47BA-8BE1-E02442913AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147D0549-4C90-47BA-8BE1-E02442913AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147D0549-4C90-47BA-8BE1-E02442913AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147D0549-4C90-47BA-8BE1-E02442913AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA3AB81-1905-4432-B01F-0D49F349B474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA3AB81-1905-4432-B01F-0D49F349B474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA3AB81-1905-4432-B01F-0D49F349B474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA3AB81-1905-4432-B01F-0D49F349B474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF22EAD8-6593-4380-8884-5747E228D6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF22EAD8-6593-4380-8884-5747E228D6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF22EAD8-6593-4380-8884-5747E228D6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF22EAD8-6593-4380-8884-5747E228D6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0351D1AA-F6C1-4F00-A76B-89B89348C6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0351D1AA-F6C1-4F00-A76B-89B89348C6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0351D1AA-F6C1-4F00-A76B-89B89348C6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0351D1AA-F6C1-4F00-A76B-89B89348C6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1838DF-4305-462C-A3DB-F1DB69B50163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1838DF-4305-462C-A3DB-F1DB69B50163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1838DF-4305-462C-A3DB-F1DB69B50163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1838DF-4305-462C-A3DB-F1DB69B50163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
